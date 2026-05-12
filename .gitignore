@@ -1,0 +1,11 @@
+# Bỏ qua tất cả
+*
+
+# Nhưng không bỏ qua thư mục
+!*/
+
+# Cho phép push file cpp
+!*.cpp
+
+# Cho phép push file gitignore
+!.gitignore
